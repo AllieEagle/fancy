@@ -1,0 +1,17 @@
+body{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+   transform: translate(-50%, -50%);
+   background-color: red;
+}
+
+span{
+    font-size: 7rem;
+    letter-spacing: 0.5rem;
+    text-shadow: 7px 7px orange, 18px 18px black;
+    -webkit-text-fill-color:transparent;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: white;
+}
+
